@@ -1,3 +1,16 @@
 
 /* Hides trip show and new trip form until wanted */
-#new-trip, #trip-info { display: none}
+
+
+header h1:hover, #new-trip p {
+  cursor: pointer;
+}
+
+h1 {width: 30%; display: inline-block; text-align: center;}
+
+nav {width: 65%; display: inline-block; text-align: right;}
+
+nav li {display: inline-block; padding-left: 1%;}
+
+
+#new-trip, #trip-info { display: none; }
