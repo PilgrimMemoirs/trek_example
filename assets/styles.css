@@ -1,0 +1,3 @@
+
+/* Hides trip show and new trip form until wanted */
+#new-trip, #trip-info { display: none}
